@@ -1,0 +1,1469 @@
+---
+title: "Striatal and Thalamic Sensitivity to Loss Anticipation: How Age Groups Diverge Under the Influence of Psychological Distress"
+author: "Maribel Delgado-Herrera"
+date: "2026-08-08"
+lang: en 
+format:
+  html:
+    toc: true          
+    toc-depth: 5      
+    toc-title: "Table of contents" 
+    number-sections: true 
+    fig-cap-location: top
+    
+execute:
+  echo: false  
+  warning: false
+  message: false 
+---
+
+## **Methods**
+
+### **Participants**
+
+The present study forms part of a broader research program investigating women across neurodevelopmental stages characterized by substantial gonadal hormone reorganization and elevated risk of affective disturbance, including adolescence and the postpartum period (Carmona et al., 2019; Hoekzema et al., 2017). Accordingly, all participants in the present analysis were female.
+A sample of healthy adolescents and adult women was recruited between 2022 and 2024. Exclusion criteria included a history of substance abuse or any reported neurological or psychiatric disorders. The final sample consisted of 62 healthy, right-handed, native Spanish-speaking women, comprising 30 adolescent women (M = 16.1, SD = 1.26 years) and 32 adult women (M = 26.4, SD = 2.92 years). To minimize hormonal variability, all assessments were conducted strictly during the follicular phase of the menstrual cycle. 
+Data collection adhered to strict privacy and confidentiality measures. Only one author retained access to personal identifiable information during the initial registration phase, which was fully anonymized immediately thereafter. Participants were thoroughly briefed regarding the experimental procedures and data protection protocols. Consequently, all participants provided written informed consent through two separate forms: an online authorization for general study participation and a specific authorization for the magnetic resonance imaging (MRI) session. For adolescent participants, both parental written informed consent and participant written assent were obtained. The study protocol was formally approved by the local Research Ethics Committees of the Facultad de Psicología-UNAM (FPSI/422/CEIP/434/2019) and the Instituto de Neurobiología-UNAM (097.H). All procedures complied with the federal guidelines of the Mexican Ministry of Health and international ethical standards for human research.
+
+
+### **Psychological scales**
+
+#### Depressive symptoms
+
+The presence of depressive symptoms was captured through the BDI-IA (Beck Depression Inventory, Spanish and Mexican adaptation; Beltrán et al., 2012; Jurado et al., 1998), which measures clinical severity during the two weeks prior to testing. The instrument utilizes 21 self-report items scored from 0 (symptom absence) to 3 (severe presentation). Consequently, total scores can range from 0 to 63, with higher values reflecting greater symptom severity (Beltrán et al., 2012).
+
+#### Anxiety symptoms
+
+Anxiety symptoms were evaluated using the Mexican adaptation of the State-Trait Anxiety Inventory (STAI; Spielberger & Díaz-Guerrero, 1975; Silva et al., 2016). This 40-item self-report instrument is divided into two independent 20-item subscales. The Trait Anxiety subscale measures the participant's stable, general predisposition to experience anxiety under environmental stress, comprising 7 direct and 13 reverse-scored items. Conversely, the State Anxiety subscale captures transient emotional responses to acute, stress-inducing situations, utilizing 10 direct and 10 reverse-scored items (Guillén-Riquelme & Buela-Casal, 2011). Higher cumulative scores on both dimensions indicate more pronounced anxiety levels.
+
+#### Perceived stress
+
+The Mexican adaptation of the Perceived Stress Scale (PSS-14) was used to assess how individuals perceive stress in daily life situations during the previous month (González-Ramírez et al., 2013; Torres-Lagunas et al., 2015). Comprising 14 Likert-type items evaluated from 0 (Never) to 4 (Very Often), it yields a global score between 0 and 56. Higher scores indicate greater perceived stress. Emotional Regulation Questionnaire Emotion regulation strategies were assessed using the Spanish version of the Emotion Regulation Questionnaire (ERQ) (Cabello et al., 2013; Olalde-Mathieu et al., 2022). This 10-item instrument evaluates two distinct strategies: cognitive reappraisal (CR), which comprises 6 items, and emotional suppression (ES), which contains 4 items. Responses are collected via a 7-point Likert ranging from 1 (strongly disagree) to 7 (strongly agree). The frequency of utilization for each strategy is determined by calculating the sum of their respective scores (Cabello et al., 2013; Gross & John, 2003).
+
+#### Sleep Quality
+
+The Pittsburgh Sleep Quality Index (PSQI) was administered as a self-report instrument to measure sleep quality during the previous month (Buysse et al., 1989). Through 19 specific questions, the instrument quantifies seven distinct components: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, daytime dysfunction, use of sleep medication, and sleep disturbances. Responses within each domain are rated from 0 to 3. The individual component scores are summed to generate an overall global score between 0 and 21, with values above 5 denoting poor sleep quality.
+
+#### Perceived Social Support
+
+To assess the quality and origin of perceived social support, we administered the AFA-R15 scale (González-Ramírez et al., 2013; Torres-Lagunas et al., 2015). The questionnaire consists of 15 items organized into two distinct dimensions: an 8-item family support subscale and a 7-item friends support subscale. The final score is obtained through the summation of all items, yielding a potential range between 15 and 75 points. Higher scores reflect greater perceived social support.
+
+### **Imaging data acquisition**
+
+To acquire the MRI scans, a 3 Tesla whole-body scanner (Philips Healthcare, Amsterdam, Netherlands) was used with 32-channel head coil. Functional imaging included 31 slices, acquired using a T2\*-weighted echo-planar imaging sequence with TR/TE 2000/30 ms, field of view of 256 × 240 × 124 mm³ (corresponding to Right–Left, Anterior–Posterior, and Foot–Head directions, respectively), a 128 × 128 matrix, and 4-mm slice thickness, resulting in a 2 × 2 × 4 mm3 no-isometric voxel. Afterward, a high resolution 3D T1 turbo field echo (TFE) sequence was collected in sagittal orientation with a field of view of 25.6 cm, and 1 mm isotropic voxels. Parallel imaging was used with a SENSE factor of 2, flip angle = 8-degree, TR= 8.4 ms and TE = 3.9 ms. The sequence duration was 5 minutes.
+
+### **Monetary Incentive Delay (MID)Task**
+
+A modified version of the MID task (Casey et al., 2018, Knutson et al., 2000) was introduced to participants during fMRI study. Each trial of the MID task began with the presentation of a geometric figure that serves as an incentive cue (pink circle, associated with rewards; yellow square, associated with losses; and blue triangle, neither gains nor losses) for 2000 ms. Rewards and losses had two magnitudes; in total, there were five conditions: Low Reward (LR) \$0.20, High Reward (HR) \$5, Low Loss (LL) \$0.20, High Loss (HL) \$5, and Control condition (C) \$0 - no money at stake. After this cue, there was a variable anticipatory delay of between 1500 and 4000 ms. Subsequently, participants had to respond quickly within a variable target duration (150-500 ms) to secure a monetary reward or avoid the loss. The feedback shown below informed participants whether they had won or lost money during that trial and indicated their total accumulated up to that point; it is important to note that the combined duration of the target and feedback is fixed at exactly 2000 ms. The paradigm consisted of 50 pseudo-randomly ordered trials (10 per condition) and had a total duration of 5 minutes and 42 seconds. Hits, Reaction Times (RT) and total monetary payout were calculated.
+
+### **Procedure**
+
+Adult participants were recruited via laboratory social media and campus posters, whereas adolescents were reached through informational talks at public and private high schools in Querétaro, México. Interested individuals received an email detailing study requirements, fMRI procedures, and consent/assent documents (including parental consent for adolescents). Approximately one week after remotely completing the self-report psychological questionnaires, participants attended the functional magnetic resonance imaging (fMRI) session at the Magnetic Resonance Unit of the National Autonomous University of Mexico (UNAM). Prior to scanning, participants completed a standard safety screening questionnaire and signed an additional fMRI-specific institutional informed consent form. Task instructions explicitly stated that the goal was to accumulate monetary rewards and avoid losses, with participants receiving their total accumulated earnings upon completion of the experiment. At the conclusion of the study, adult female participants received monetary compensation of 50 MXN for their participation. Conversely, adolescent participants received an equivalent non-monetary compensation consisting of personal care products, in compliance with the guidelines established by the institutional ethics committee regarding financial incentives for minors.
+
+### **Data analysis**
+
+#### **Descriptive analysis**
+
+We calculated the descriptive statistics for hits and RTs in the MID task across the five conditions (LR, HR, LL, HL and C), as well as the total accumulated gain at the end of the task. 
+As a complementary analysis, we performed an Aligned Rank Transform (ART) ANOVA to determine whether there are differences between groups based on conditions regarding hits and RTs. The statistical model included age group as the between-subjects factor, condition as the within-subjects factor, and the age group × condition interaction. To investigate significant findings from the omnibus test, follow-up pairwise contrasts were performed. Type I error accumulation from multiple comparisons was controlled using Holm’s adjustment method. To compare the total monetary payout between the groups, a t-test or a Wilcoxon test was performed, depending on the normality of the data. 
+Regarding the psychological scales, we also calculated descriptive statistics for each scale separately and, as a complementary analysis, performed a group comparison test with False Discovery Rate (FDR) p-values adjusted for multiple comparisons. 
+
+
+#### **Principal Component Analysis (PCA) of Psychological Scales**
+
+PCA was utilized for dimensionality reduction and variable selection to generate a robust composite index of psychological distress. Prior to factor extraction, data suitability for factorization across the initial eight domains derived from the scales and subscales of the psychological instruments administered was evaluated using the Kaiser-Meyer-Olkin (KMO) measure of sampling adequacy and Bartlett’s test of sphericity. Variables were evaluated for retention based on a factor loading threshold of 0.40. Variables failing to meet this criterion were excluded from the final index construction. Following variable selection, a definitive PCA was restricted to the remaining scales and subscales to extract a single dominant component, operationalized as the Psychological Distress index. The internal consistency and reliability of the final set of retained variables were evaluated using Cronbach's alpha. Finally, to test whether Psychological Distress scores differed by age group, a two-sample t-test or Wilcoxon rank-sum test was applied to the component scores, depending on whether the normality assumption was met.
+
+#### **Analysis of fMRI data**
+
+##### **Preprocessing**
+
+Functional MRI data analysis was conducted using the FMRIB Software Library (FSL, version 6.0.7.4; Jenkinson et al., 2012; Smith et al., 2004). For each participant, functional preprocessing included slice-timing correction, motion correction via MCFLIRT, and brain extraction using BET. To correct for intensity inhomogeneity, each participant's structural T1-weighted image was processed using FAST, employing a bias field smoothing Full-Width Half-Maximum (FWHM) of 20 mm and 4 iterations, prior to tissue segmentation. Functional images were then linearly co-registered to the bias-corrected structural image and normalized to the MNI152 standard space (2 mm isotropic voxels). Finally, functional data were spatially smoothed using a Gaussian kernel (FWHM = 6 mm) and high-pass filter was set at 100 seconds to diminish physiological noise.  
+
+##### fMRI data analysis
+
+Statistical analysis focused on changes in the BOLD signal during the anticipatory delay period. Whole-brain analyses were carried out in FSL FEAT under the general linear model (GLM). At the first level, the four incentive conditions (HR, LR, HL, LL) and the control condition (C) were modelled as separate explanatory variables (EVs) in a single-subject GLM; each EV was convolved with a double-gamma hemodynamic response function (HRF), and its temporal derivative was included. The following subject-level contrasts were computed: Reward > C and Loss > C (each collapsing across high and low magnitude), together with the magnitude-specific contrasts HR > C, LR > C, HL > C and LL > C. First-level statistics were estimated with a fixed-effects model, and group inference used a second-level mixed-effects model (FLAME 1). Functional data were registered to MNI152 (2 mm) using boundary-based registration (functional to structural) and 12-DOF affine plus nonlinear FNIRT (structural to standard). Statistical maps were thresholded at a voxel-wise Z > 3.1 with cluster-level family-wise error correction at p < 0.05 (Worsley, 2001), consistent with the recommendations of Eklund et al. (2016). Anatomical labels follow the Harvard–Oxford Cortical and Subcortical Structural Atlases distributed with FSL.
+
+##### Region of interest (ROIs) analysis
+
+ROIs analysis was conducted focusing on three regions: bilateral nucleus accumbens (NAcc), bilateral thalamus and bilateral insula. A priori anatomical ROIs was defined using the Harvard-Oxford cortical and subcortical structural atlas, thresholded at a conservative 50% probability to maximize anatomical specificity. For each participant, ten individual parameter estimates (beta weights) corresponding to: a) conditions (HR, LR, HL, and LL); and b) overall contrasts (R > C and L > C) and specifically contrast per magnitude respect to control condition (HR > C, LR > C, HL > C, LL > C), were extracted from the ROIs using FSL’s Featquery tool. The resulting mean percentage signal change values were utilized in subsequent statistical analyses.
+Prior to the moderation analysis, for each ROI, we conducted between-group comparisons with False Discovery Rate (FDR) p-values adjusted for multiple comparisons across the ten individual parameter estimates, as complementary analyses to our working hypotheses. 
+To test our principal hypothesis, whether developmental stage moderates the relationship between Psychological Distress and anticipatory BOLD signal, moderation analyses were conducted for each of the three ROIs. Each of the ten extracted beta weights (see above) served as the dependent variable in a separate linear regression model. Every model included Psychological Distress (mean-centered prior to analysis to reduce multicollinearity and aid interpretation) as the predictor, age group (adolescents vs. adults) as the categorical moderator, and the Psychological Distress × age group interaction term as the formal test of moderation. 
+Total monetary payout deviated from normality and displayed a pronounced bimodal distribution (see Results), indicating two distinct performance profiles within the sample independent of age group. To prevent this performance profile from biasing the moderation analyses, each neuroimaging model additionally included a covariate derived from a Gaussian Mixture Model (GMM) as a nuisance variable. GMM was fitted to the cumulative-earnings variable using the mclust package in R (Scrucca et al., 2016). The GMM models the observed distribution as a mixture of latent Gaussian components, estimating each component's mean, variance and mixing proportion, and assigns every participant a posterior probability of membership in each component. The optimal number of components was selected by the Bayesian Information Criterion (BIC), with lower values indicating better fit. Each participant was then assigned to the component of highest posterior probability, yielding a categorical task-performance profile (Low vs. High Earners). Independence of profile assignment from age group was verified using Fisher's exact test. 
+This four-predictor specification yielded the model degrees of freedom reported throughout (F(4, 57)). Significant interactions were decomposed using simple-slopes analyses, evaluating the association between Psychological Distress and BOLD signal separately within each age group. To control for multiple comparisons across the three ROIs, interaction p-values were adjusted using the FDR procedure.
+Statistical analyses of the behavioral data and the moderation models were performed using R Studio software, version 4.6.0 (R Core Team, 2025), and statistical significance for all tests was evaluated at (α = .05).
+
+
+## **Results**
+
+### **Descriptive statistics of MID task and psychological scales**
+
+Table 1 shows the median and interquartile range for hits and RTs across the five conditions for total sample and for each age group. For the number of hits, ART ANOVA revealed no significant main effect of age group (F (1, 60) = 0.14, p = .70) and no significant group x condition interaction (F (4, 240) = 1.93, p = .10). However, a significant main effect of condition was observed (F (4, 240) = 3.97, p = .003). To explore this main effect, follow-up pairwise contrasts were performed using Holm’s adjustment (Figure 1). The post-hoc analysis indicated that the number of hits was significantly lower in the C condition compared to the HL condition (t (240) = -2.81, p = .04, d = - 0.18, Table 1). Additionally, the HL condition yielded a significantly higher number of hits than the LL condition (t (240) = 3.07, p = .02, d = 0.19, Table 1). Finally, a significant difference was found between the LR and LL conditions, with the latter showing a greater number of hits (t (240) = 2.79, p = .04, d = 0.18, Table 1). No other pairwise comparisons reached statistical significance. 
+Regarding RTs, ART ANOVA showed no significant main effect of group (F (1, 56.95) = 0.15, p = .69), or condition, (F (4, 177.12) = 0.98, p = .41), nor of the group x condition interaction (F (4, 177.07) = 0.92, p = .45). 
+
+
+```{r}
+#cargo el archivo de los datos conductuales  
+data <-read.csv("./data/processed/MID_conductual.csv", encoding = "UTF-8")
+```
+
+```{r}
+#Cargo las librerías
+library(dplyr)
+library(stringr)
+library(tidyverse)
+library(ggplot2)
+library(ggstatsplot)
+library(ggpubr)
+library(cowplot)
+library(ARTool)
+library(corrr)
+library(psych)
+library(emmeans)
+library(Matrix)
+library(lme4)
+
+```
+
+```{r}
+# Renombro los niveles en la base de datos
+data$condition <- factor(data$condition, 
+                         levels = c("N", "RH", "RL", "PH", "PL"), # Orden original
+                         labels = c("C", "HR", "LR","HL", "LL")) # Nuevos nombres
+
+#agrego una nueva columna llamada Group y clasifico Adolescents and Adults
+data <- data %>%
+  mutate(Group = case_when(
+            str_detect(ID, "AN") ~ "Adults",
+            str_detect(ID, "MN") ~ "Adolescents"))
+            
+```
+```{r}
+#agrego dos columnas para conertir Hits y Miss en porcentaje
+data <- data %>%
+  mutate(HITS = data$Hits *100/10)
+data <- data %>%
+  mutate(MISS = data$Miss *100/10)
+```
+```{r}
+#REVISO NORMALIDAD DE LOS DATOS
+#p > 0.05: los datos son normales
+
+shapiro.test(data$HITS)
+hist(data$HITS) 
+density(data$HITS)
+#los datos NO son normales
+
+shapiro.test(data$MISS)
+hist(data$MISS) 
+density(data$MISS)
+#los datos NO son normales
+
+shapiro.test(data$RTmean)
+hist(data$RTmean) 
+#los datos NO son normales
+
+shapiro.test(data$total_money)
+hist(data$total_money) 
+#los datos NO son normales
+```
+```{r}
+library(writexl)
+# Calcular descriptivos por Grupo y Condición
+tabla_descriptivos_grupos <- data %>%
+  group_by(Group, condition) %>%
+  summarise(
+    HITS_Median = median(HITS, na.rm = TRUE),
+    HITS_IQR    = IQR(HITS, na.rm = TRUE),
+    RT_Median   = median(RTmean, na.rm = TRUE),
+    RT_IQR      = IQR(RTmean, na.rm = TRUE),
+    Total_win = median(GANACIAS,na.rm = TRUE),
+    Total_win_IQR = IQR(GANACIAS,na.rm = TRUE),
+    Total_loss = median(PERDIDAS, na.rm = TRUE),
+    Total_loss_IQR = IQR(PERDIDAS,na.rm = TRUE),
+    MoneyReceived = median(total_money),
+    MoneyReceived_IQR = IQR(total_money,na.rm = TRUE),
+    .groups = "drop" # Desactiva el agrupamiento al terminar
+  )
+
+# Ver el resultado en consola
+print(tabla_descriptivos_grupos)
+# Exportar a Excel 
+#write_xlsx(tabla_descriptivos_grupos, path = "Table_Descriptive_Statistics.xlsx")
+```
+
+```{r}
+#descriptivos muestra total
+tabla_descriptivos_ncompleta <- data %>%
+  group_by(condition) %>%
+  summarise(
+    HITS_Median = median(HITS, na.rm = TRUE),
+    HITS_IQR    = IQR(HITS, na.rm = TRUE),
+    RT_Median   = median(RTmean, na.rm = TRUE),
+    RT_IQR      = IQR(RTmean, na.rm = TRUE)
+  )
+
+# Ver el resultado en consola
+print(tabla_descriptivos_ncompleta)
+```
+
+
+```{r}
+#ANOVA TWO WAY non-parametric 
+#Aligned rank transform test
+
+#convierto a factor las variables Group y condition
+
+data$condition <- as.factor (data$condition)
+data$Group <- as.factor (data$Group)
+data$ID <- as.factor(data$ID)
+#str(data)
+
+```
+
+```{r}
+# ANOVA de dos vías no paramétrico (ART)
+# Evaluamos el efecto del Grupo, la Condición y su Interacción (*)
+# Agregamos (1|id) porque cada sujeto tiene 5 mediciones repetidas
+modelo_art <- art(HITS ~ Group * condition + (1|ID), data = data)
+anova(modelo_art)
+#es significativo el anova solamente para condición
+
+# Ejecutar los contrastes post-hoc para la variable condition
+posthoc_cond <- art.con(modelo_art, "condition", adjust = "holm")
+summary(posthoc_cond)
+#hay tres resultados significativos, CC-LH, LH-LL, LL-RL
+
+```
+
+```{r}
+#Calcular el tamaño del efecto
+tabla_resultados <- as.data.frame(summary(posthoc_cond))
+
+#Calcular manualmente la d de Cohen
+tabla_resultados$cohen_d <- tabla_resultados$t.ratio / sqrt(tabla_resultados$df)
+
+print(tabla_resultados[, c("contrast", "estimate", "t.ratio", "df", "p.value", "cohen_d")])
+```
+
+::: {#fig-hits}
+```{r}
+
+#Graficamos los resultados para visualizar los posthoc significativos
+
+# 1. Cargar las librerías necesarias
+library(ggplot2)
+library(ggpubr)
+library(ggsignif)
+
+# 2. PARÁMETROS 
+# =============================================================
+y_min_real <- 0
+y_max_real <- 100
+
+# agrando el eje y para que quepan las barras de significancia
+y_linea1 <- 105
+y_linea2 <- 116
+y_linea3 <- 127
+
+   hits_boxplot <- ggplot(data, aes(x = condition, y = HITS)) +
+  
+  # A) BOXPLOT
+    geom_boxplot(
+    fill = "#D3D3D3",       
+    color = "#000000",      
+    width = 0.45,           
+    linewidth = 0.7,        
+    fatten = 2.5,          
+    outlier.shape = NA      
+  ) +
+  
+  # B) PUNTOS EN EL GRÁFICO
+  geom_jitter(
+    color = "#4D5662",      
+    alpha = 0.30,           
+    width = 0.12,         
+    height = 0,             
+    size = 2              
+  ) +
+  
+  # C) AGREGO LAS BARRAS DE SIGNIFICANCIA 
+  # BARRA 1: N vs LH (*)
+  geom_signif(
+    comparisons = list(c("C", "HL")),
+    annotations = "*",
+    y_position = y_linea1,
+    tip_length = 0.03,     
+    linewidth = 0.6,
+    textsize = 5.5,
+    vjust = 0.4,
+    color = "#000000"
+  ) +
+  
+  # BARRA 2: LH vs LL (*)
+  geom_signif(
+    comparisons = list(c("HL", "LL")),
+    annotations = "*",
+    y_position = y_linea2,
+    tip_length = 0.03,
+    linewidth = 0.6,
+    textsize = 5.5,
+    vjust = 0.4,
+    color = "#000000"
+  ) +
+  
+  # BARRA 3: LL vs RL (*)
+  geom_signif(
+    comparisons = list(c("LL", "LR")),
+    annotations = "*",
+    y_position = y_linea3,
+    tip_length = 0.03,
+    linewidth = 0.6,
+    textsize = 5.5,
+    vjust = 0.4,
+    color = "#000000"
+  ) +
+  
+  labs(
+    x = "Condition",
+    y = "HITS (%)"
+  ) +
+  
+  scale_y_continuous(
+    limits = c(y_min_real, 135), 
+    breaks = seq(0, 100, by = 20)
+  ) +
+  
+  theme_classic(base_size = 14, base_family = "sans") + 
+  theme(
+    axis.line = element_line(color = "#000000", linewidth = 0.7),
+    axis.ticks = element_line(color = "#000000", linewidth = 0.7),
+    axis.text.x = element_text(color = "#000000", size = 12),
+    axis.text.y = element_text(color = "#000000", size = 12),
+    axis.title.x = element_text(color = "#000000", size = 14, margin = margin(t = 12)),
+    axis.title.y = element_text(color = "#000000", size = 14, margin = margin(r = 12)),
+    panel.grid = element_blank()
+  )
+
+print(hits_boxplot)
+
+ggsave("./images/Figure1_Hits_boxplot.png", plot = hits_boxplot, 
+       width = 15, height = 15, units = "cm", dpi = 300)
+```
+
+*Note.* Experimental conditions are displayed on the x-axis. Horizontal lines with asterisks indicate significant post-hoc pairwise comparisons (Holm-corrected, \* p \< .05). The number of hits was significantly lower in the control condition (C) relative to High Loss (HL), whereas HL and Low Reward (LR) both yielded significantly higher hits than the Low Loss (LL) condition. All other comparisons were non-significant.
+
+Number of hits across experimental conditions
+:::
+
+```{r}
+#| include: false
+#Modelo ART (Rango Transformado Alineado) tiempos de reacción
+#Grupo = dos niveles (adultas vs. adolescentes) y Condición = 5 niveles (PH, PL, RH, RL, N)
+
+#para el caso de los tiempos de reacción debo primero eliminar las filasa con NAs sino no se puede realizra el ANOVA
+
+#data sin NAs
+
+data_sinNA <- data %>%
+  filter(!is.na(RTmean))
+
+#reviso cuantas participantes quedaron en cada grupo
+group_by(data_sinNA, Group, condition) %>%
+  summarise(count=n(),
+            median= median(RTmean), IQR = IQR(RTmean)
+            )
+
+#ya sin NAs realizo el art model y el anova art
+#RT
+modelo_art_RT <- art(RTmean ~ Group * condition + (1|ID), data = data_sinNA)
+anova(modelo_art_RT)
+
+#No hay resultados significativos en los tiempos de reacción
+
+```
+
+
+```{r}
+#cargo el archivo que tiene las variables psicológicas y las rois
+
+data_psic <-read.csv("./data/processed/Data_Psic_ROIS.csv", encoding = "UTF-8")
+roi_data <-read.csv("./data/processed/data_bold.csv", encoding = "UTF-8")
+```
+
+```{r}
+#renombro la primera columna
+library(dplyr)
+
+roi_data <- roi_data%>% 
+  rename(ID = Sujeto) 
+library(stringr)
+#Transformo el ID sub-03an.feat o sub-09mn.feat a AN22-03 o MN22-09
+roi_data <- roi_data %>%
+  mutate(
+    # Extraer el número (ej: 03 o 09)
+    num = str_extract(ID, "\\d+"),
+    # Extraer las letras del final (an o mn) antes del .feat
+    tipo = str_extract(ID, "(an|mn)") %>% toupper(),
+    # Construir el ID final: Letras + 22 + - + Numero
+    ID_final = paste0(tipo, "22-", num)
+  )
+```
+
+```{r}
+#cambiar el formato de largo a ancho
+library(dplyr)
+library(tidyr)
+
+roi_data <- roi_data%>% 
+  pivot_wider(
+    id_cols = ID_final,
+    names_from = c(ROI, Contraste),
+    names_sep = "_",
+    values_from = BOLD_Mean
+  )
+```
+
+```{r}
+#Unir ambos dataframes 
+data_ROIs <- left_join(data_psic, roi_data, by = c("ID" = "ID_final"))
+```
+
+```{r}
+#| include: false
+#calcular la media y SD de la variable edad por grupo
+tabla_edad <- data_ROIs %>%
+  group_by(Group) %>% 
+  summarise(
+    Media_Edad = mean(Edad, na.rm = TRUE),
+    SD_Edad    = sd(Edad, na.rm = TRUE),
+    Total_N    = n() 
+  )
+
+print(tabla_edad)
+```
+
+A Shapiro-Wilk test confirmed that total monetary payout deviated significantly from a normal distribution (W = 0.80, p < .001), displaying a distinct bimodal pattern visually (Supplementary Figure S1) that was confirmed by the bimodality coefficient (0.77). A non-parametric Wilcoxon rank-sum test was conducted to compare total monetary payout between groups. No significant difference was found between adolescents (median: 20.2, IQR: 83.9) and adults (median: 28.5, IQR: 81.1) (W = 486.50, p = .93). Overall, the bimodal distribution and the results of the between-group comparison demonstrate that, regardless of age group, there are women who perform the task successfully and earn money, while others lose money due to poor performance. To prevent this performance profile from biasing the moderation analyses, we included the GMM categorization as a covariate.
+Although the BIC results suggested an optimal number of five components (BIC = -557.55), we selected the parsimonious two-component solution (BIC = -581.23) based on the bimodal distribution of the variable. To maintain model parsimony and avoid overfitting due to the sample size, we specified an equal-variance constraint (univariate 'E' model in mclust), as the BIC scores for the equal and variable variance configurations were virtually identical for the two-component solution. This model allowed us to classify two total monetary payment profiles (high versus low).
+In this two-component GMM, Component 1 (Low Earners profile, n = 26, 13 adolescents and 13 adults) accounted for 41.97% of the sample, characterized by a mean profit of -41.00. Conversely, Component 2 (High Earners profile, n = 36, 17 adolescents and 19 adults) comprised the remaining 58.03% of the participants, with a mean profit of 39.47. Reflecting the model's constraint, both components shared a common standard deviation of 11.67. Fisher's exact test confirmed that group assignment was completely independent of age group (p = 1.00).
+
+
+```{r}
+#| include: false
+###Comparar si hay diferencias entre grupos en la cantidad final ganado###
+
+library(dplyr)
+library(ggplot2)
+library(mousetrap)
+
+# 1. EVALUAR LA NORMALIDAD ESTADÍSTICA
+# (Un p-valor < 0.05 confirma matemáticamente que tus datos NO son normales)
+shapiro_res <- shapiro.test(data_ROIs$total_money)
+print(shapiro_res)
+
+# 2. GENERAR EL GRÁFICO DE DENSIDAD BIMODAL
+total_money_grupo <- ggplot(data_ROIs, aes(x = total_money, fill = Group)) +
+  geom_density(alpha = 0.5) +
+  theme_minimal() +
+  labs(
+    title = "Bimodal Distribution of Total Monetary Payout",
+    x = "Total monetary payout",
+    y = "Density",
+    fill = "Group"
+  ) +
+  scale_fill_manual(values = c("Adolescents" = "#0F766E" , "Adults" = "#D97706"))
+total_money_grupo 
+
+# 3. Calcular el bomidality test
+
+bimodality_test <- bimodality_coefficient(data_ROIs$total_money)
+
+# 4. COMPARACIÓN DE GRUPOS (Prueba No Paramétrica por falta de normalidad)
+
+wilcox_res <- wilcox.test(total_money ~ Group, data = data_ROIs)
+print(wilcox_res)
+#no hay diferencias entre adultas y adolescentes en la gagancia final 
+
+```
+
+```{r}
+#| include: false
+#voy a generar un MODELO DE MIXTURA GAUSSIANA (GMM) para clasificar a mis particiantes debido a la distribución biimodal
+
+library(mclust)
+library(dplyr)
+# Corro el análsiis BIC de uno a 5 grupos para determianr cuál es la mejor agrupación
+
+analisis_bic <- mclustBIC(data_ROIs$total_money, G = 1:5)
+print(analisis_bic)
+plot(analisis_bic, main = "Inspección Visual del Criterio de Información Bayesiano (BIC)")
+
+#el reusltado dice que es 5, pero eso me agrupa a pocos participantes en 5 grupos pequeños, por eso voy a elegir el grupo 2, que es teoricamnete más acertado
+
+# Evaluamos si el modelos de 2 grupos tiene varianzas iguales (E) o diferentes (V)
+comparacion_estructuras <- mclustBIC(data_ROIs$total_money, G = 2)
+print(comparacion_estructuras)
+#el valor de E es el más cercano a cero, eso significa que mi modelo de dos grupos es homocedástico, es decir, asume varianzas iguales. 
+```
+
+```{r}
+# Ajustar el modelo de 5 grupos (el óptimo matemático) y el de 2 (el teórico)
+modelo_5_grupos <- Mclust(data_ROIs$total_money, G = 5)
+modelo_2_grupos <- Mclust(data_ROIs$total_money, G = 2)
+
+# EXTRAER LOS VALORES DE BIC
+
+cat("BIC para el modelo de 5 grupos (Matemático):", modelo_5_grupos$bic, "\n")
+cat("BIC para el modelo de 2 grupos (Teórico):", modelo_2_grupos$bic, "\n\n")
+
+# VER PARÁMETROS DE AMBOS MODELOS
+
+cat("--- RESUMEN MODELO G = 5 ---\n")
+summary(modelo_5_grupos)
+
+cat("\n--- RESUMEN MODELO G = 2 ---\n")
+summary(modelo_2_grupos)
+
+# INSPECCIÓN VISUAL
+par(mfrow = c(1, 2)) # Divide la pantalla de gráficos en 2 columnas
+
+plot(modelo_5_grupos, what = "density", 
+     main = "Modelo Matemático (G=5)", xlab = "Total Money", col = "darkred")
+plot(modelo_2_grupos, what = "density", 
+     main = "Modelo Teórico (G=2)", xlab = "Total Money", col = "darkblue")
+
+par(mfrow = c(1, 1))
+```
+
+```{r}
+#ya que decidí dividirlo en dos grupos voy a calcular las proporciones de mezcla (porcentajes de cada grupo)
+proporciones <- modelo_2_grupos$parameters$pro * 100
+proporciones
+
+#ahora voy a calcular la media del pico para cada grupo 
+medias <- modelo_2_grupos$parameters$mean
+medias
+
+#Ahora voy calcular las desviaciones estándar (σ) de cada grupo. 
+varianzas <- modelo_2_grupos$parameters$variance$sigmasq
+varianzas
+sqrt(varianzas)
+
+#Asignar el pico (1 o 2) a cada fila de tu base de datos
+data_ROIs$pico_asignado <- modelo_2_grupos$classification
+
+# Generar la tabla cruzada de contingencia usando tu columna 'Group'
+tabla_final <- table(data_ROIs$Group, data_ROIs$pico_asignado)
+print(tabla_final)
+
+fisher.test(tabla_final)
+
+#creo la variable dicotómica que usaré como covariale en los análsiis de neuroimagen 
+data_ROIs <- data_ROIs %>%
+  mutate(Performance_Profile = ifelse(modelo_2_grupos$classification == 1, "Low_Earners",  "High_Earners"))
+
+```
+
+
+Table 2 shows the descriptive statistics for the scales and subscales used in the PCA. Comparisons revealed no statistically significant differences between adolescents and adults on any of the psychological scales after applying the FDR correction for multiple comparisons.
+
+```{r}
+#| label: tbl-psico
+#| tbl-cap: "Descriptive statistics and group comparisons for the psychological scales."
+#| echo: false
+########Datos descriptivos y comparciones por grupo en las variables psicológicas####################
+library(dplyr)
+library(gtsummary)
+library(tidyverse)
+library(effectsize)
+library(flextable)
+library(huxtable)
+library(effsize)
+
+# Evaluar la normalidad multivariada del bloque psicológico (Test de Mardia)
+normalidad_mvn <- MVN::mvn(data = data_ROIs[, c("depresion", "ans_estado", "ans_rasgo", "PSS", "AFA_fam_am", "ERQ_RC", "ERQ_SE", "GlobaLPSQI")], mvn_test = "mardia")
+#normalidad_mvn$multivariate_normality
+#son datos normales, descrptivos serán medias y desviaciones y voy a correr la prueba t para comparar los grupos
+# Configuración global para Media (DE)
+theme_gtsummary_mean_sd()
+
+# 1. Crear la lista de variables continuas 
+variables <- c("depresion", "ans_estado", "ans_rasgo", "PSS", "AFA_fam_am", "ERQ_RC", "ERQ_SE", "GlobaLPSQI")
+
+# 2. Calcular la d de Cohen 
+efectos_df <- tibble(variable = variables) %>%
+  rowwise() %>%
+  mutate(
+    cohen_d = cohen.d(as.formula(paste(variable, "~ Group")), data = data_ROIs)$estimate,
+    cohen_d = round(cohen_d, 2)
+  ) %>%
+  ungroup()
+
+# 3. Crear la tabla gtsummary y agregar el tamaño del efecto 
+tabla_psico <- data_ROIs %>%
+  select(Group, all_of(variables)) %>%
+  tbl_summary(
+    by = Group,
+    statistic = list(all_continuous() ~ "{mean} ({sd})"),
+    digits = all_continuous() ~ c(2, 2), # Aplica dos decimales a todas las medias y SDs
+    missing = "no"
+  ) %>%
+  add_p(test = list(all_continuous() ~ "t.test")) %>%
+  add_q(method = "fdr") %>% 
+  
+  # Fusión: Unimos el cálculo de Cohen dentro de la tabla
+  modify_table_body(function(x) {
+    left_join(x, efectos_df, by = "variable")
+  }) %>%
+  
+  # nombro mis columnas como quiro que saLgan en la tabla
+  modify_header(
+    label = "**Variable**",
+    p.value = "**p-value**",
+    q.value = "**FDR**",
+    cohen_d = "**d**"   
+  ) %>%
+  bold_labels() 
+
+# 4. Visualizar el resultado
+tabla_psico
+
+#5. EXPORTO LA TABLA EN WORD PARA TENERLA EN FORMATO EDITABLE
+tabla_psico %>%
+  as_flex_table() %>%
+  flextable::save_as_docx(path = "./tables/Table1_Psychological_Profiles_Parametric.docx")
+
+```
+
+### Principal Component Analysis (PCA) results of Psychological Scales
+
+To assess data suitability for factor extraction across the eight psychological scales and subscales, the KMO measure of sampling adequacy and Bartlett's test of sphericity were evaluated prior to the PCA, demonstrating robust factorability (KMO = 0.88; X2 (28) = 303.95, p < .001). Examination of the initial component loadings revealed that cognitive reappraisal fell below the 0.40 retention threshold, this variable was therefore excluded from index construction.
+The refitted PCA, restricted to the remaining seven variables, extracted a single dominant component (PC1), labelled Psychological Distress, which accounted for 65.45% of the total variance (Figure 2, A). Component loadings were as follows: depression (0.42), trait anxiety (0.42), state anxiety (0.40), perceived stress (0.39), sleep quality (0.35), social support (0.33) and expressive suppression (0.28). Internal consistency across these seven variables was high (Cronbach's α = 0.89). A two-sample t-test indicated a significant age-group difference in Psychological Distress scores (t (60) = 2.10, p = .03, Cohen's d = 0.53), with adolescents showing higher distress than adults (Figure 2, B).
+
+
+```{r}
+#| include: false
+##################### ELEGIR DE LAS PSICOLÓGICAS CUÁLES SE PUEDEN METER A UN PCA PARA REDUCIR COMPONENTES
+library(corrplot)
+# creo un objeto con mis 8 variables
+vars_8 <- data_ROIs[, c("depresion", "ans_estado", "ans_rasgo", "PSS", "AFA_fam_am", "ERQ_RC", "ERQ_SE", "GlobaLPSQI")] 
+cor_matrix <- cor(vars_8, use = "complete.obs")
+corrplot(cor_matrix, method = "number")
+
+#VERIFICO SI MIS DATOS SON APTOS PARA UN ANALYSIS DE FCATORES
+library(psych)
+KMO(vars_8)
+cortest.bartlett(vars_8)
+#SÍ SON APTAS
+
+#corro un Análisis Factorial Exploratorio (EFA) preliminar. Las variables que "pesen" más en el primer factor son las ideales
+# Pedimos 1 solo factor
+analisis_previo <- fa(vars_8, nfactors = 1, fm = "pa")
+print(analisis_previo$loadings, cutoff = 0.4) # Solo muestra las que cargan > 0.4
+#verificar que sean consistentes entre sí
+
+psych::alpha(data_ROIs[, c("depresion", "ans_estado", "ans_rasgo", "PSS", "AFA_fam_am", "ERQ_SE", "GlobaLPSQI")], check.keys = TRUE)
+
+#salió un alpha de > 0.89, ahora sí con estas variables voy a correr el PCA
+
+```
+
+```{r}
+#| include: false
+############CORRER EL PCA #################################################
+#PRIMERO VOY A INVERTIR LOS PUNTAJES DE LA VARABLE AFA_fam_am, para que todos queden en a mayor puntaje mayor distres psicológico
+
+data_ROIs$AFA_inver <- 70 - data_ROIs$AFA_fam_am
+head(data_ROIs[, c("AFA_fam_am", "AFA_inver")])
+# Correr el PCA solo con las variables que dieron el 0.89
+#Voy a renombrar las variables para que en mi gráfica que salgan con el nombre adecuado
+data_ROIs <- data_ROIs %>%
+  rename ("Depression" = depresion,
+     "State anxiety" = ans_estado,
+     "Trait anxiety" = ans_rasgo,
+     "Perceived stress" = PSS,
+     "Social support" = AFA_inver,
+     "Expressive suppression" = ERQ_SE,
+     "Sleep quality" = GlobaLPSQI)
+
+pca_final <- prcomp(data_ROIs[, c("Depression", "State anxiety", "Trait anxiety", "Perceived stress", "Social support",      "Expressive suppression", "Sleep quality")], center = TRUE, scale. = TRUE)
+
+# Guardo el factor en una columna en mi base de datos, le voy a llamar distres_global
+data_ROIs$distres_global <- pca_final$x[, 1]
+
+# Con el summary puedo conocer el porcentaje de varianza explica este factor
+summary(pca_final)
+#el PC1 explica el 65% de la varianza lo que significa que ese único factor captura la gran mayoría de la información de las variables psicológicas
+# mi columna de distres_global significa que a valores altos mayor distres global
+
+# Ver los valores numéricos de la influencia de cada variable
+pca_final$rotation[, 1] # Solo para el PC1
+```
+
+::: {#fig-pca}
+```{r}
+library(factoextra)
+
+PCA_image <- fviz_pca_biplot(pca_final, 
+                # Mantiene tus colores originales
+                habillage = data_ROIs$Group, 
+                palette = c("#0F766E", "#D97706"), 
+                
+                # Configuración de Elipses de confianza
+                addEllipses = TRUE,           
+                ellipse.type = "confidence",  
+                ellipse.level = 0.95,         
+                
+                # Flechas y letras en gris oscuro profesional
+                col.var = "gray20",           
+                alpha.var = 0.85,             
+                
+                # Tema base limpio (Aumentamos el tamaño base de letra de 11 a 12)
+                ggtheme = theme_classic(base_size = 14),
+                
+                # Configuración de representación (Círculos unificados)
+                geom.ind = "point", 
+                pointsize = 2.5,              
+                label = "var",      
+                repel = TRUE,                 
+                
+                # Títulos formales para artículo
+                title = NULL,         
+                xlab = "PC1 (65.5%)", 
+                ylab = "PC2 (10.9%)") +
+  
+  # ambos grupos se muestran con círculos
+  scale_shape_manual(values = c(19, 19)) +
+  
+  theme(
+    legend.position = "top",                 
+    legend.title = element_blank(),            
+    legend.text = element_text(face = "plain", color = "black"), 
+    axis.title = element_text(face = "bold", color = "black"),   
+    axis.text = element_text(face = "plain", color = "black", size = 11),
+    axis.title.x = element_text(margin = margin(t = 12), face = "bold", color = "black"),
+    axis.title.y = element_text(margin = margin(r = 12), face = "bold", color = "black"),
+    axis.line = element_line(color = "black", linewidth = 0.6), 
+    panel.grid.major = element_blank(),        
+    panel.grid.minor = element_blank(),        
+    panel.background = element_blank(),        
+    plot.background = element_blank()
+  )
+PCA_image
+
+# Exportar en alta resolución (300 DPI)
+ggsave(
+  filename = "./images/Figure2_PCA_image.png", 
+  plot = PCA_image,
+  width = 5.5, 
+  height = 6, 
+  units = "in", 
+  dpi = 300
+)
+```
+
+*Note.* The first two principal components account for 65.5 % (PC1) and 10.9 % (PC2) of the total variance, respectively. Individual data points correspond to participants, classified by Group. Vectors (arrows) represent the loadings of the original psychological scales onto the components; the direction and length of each vector indicate its contribution to the respective principal components.
+
+PCA biplot of psychological scales.
+:::
+
+```{r}
+#| include: false
+#ahora voy a comparar a lso grupos en esta nueva variable
+# Comprobamos normalidad de la variable
+shapiro_pca <- shapiro.test(data_ROIs$distres_global)
+shapiro_pca
+#si es normal
+
+#corremos el t.test
+t_res <- t.test(data_ROIs$distres_global ~ data_ROIs$Group, var.equal = TRUE)
+d_res <- effectsize::cohens_d(data_ROIs$distres_global ~ data_ROIs$Group, var.equal = TRUE, verbose = FALSE)
+t_res
+d_res
+```
+
+::: {#fig-boxplot}
+```{r}
+#grafica de los resultados de comparaciones de grupo
+library(ggplot2)
+library(ggdist)
+library(dplyr)
+colores_grafica <- c("Adolescents" = "#0F766E", "Adults" = "#D97706")
+
+# Calcular las medias exactas para colocarlas en el gráfico
+medias_grupo <- data_ROIs %>%
+  group_by(Group) %>%
+  summarize(mean_val = mean(distres_global, na.rm = TRUE))
+
+grafica_2B <- ggplot(data_ROIs, aes(x = Group, y = distres_global, fill = Group, color = Group)) +
+  
+    ggdist::stat_halfeye(
+    adjust = 0.5,           
+    width = 0.5,            
+    .width = 0,             
+    justification = -0.3,   
+    point_colour = NA,      
+    alpha = 0.20            
+  ) +
+ 
+  geom_boxplot(
+    aes(fill = Group),      
+    color = "black",      
+    width = 0.25,           
+    outlier.shape = NA,     
+    alpha = 0.65,           
+    linewidth = 0.8
+  ) +
+  
+  geom_jitter(
+    width = 0.12,           
+    height = 0,          
+    size = 2.7,             
+    alpha = 1.0,            
+    stroke = 0.1              
+  ) +
+  
+  geom_point(
+    data = medias_grupo,
+    aes(x = Group, y = mean_val),
+    shape = 18,             
+    size = 4,
+    color = "black",
+    inherit.aes = FALSE
+  ) +
+
+  geom_label(
+    data = medias_grupo,
+    aes(x = Group, y = mean_val, label = round(mean_val, 2)),
+    color = "black",        
+    fontface = "bold",      
+    size = 4,             
+    vjust = -1.4,           
+    hjust = 0.5,            
+    fill = "white",         
+    label.padding = unit(0.2, "lines"), 
+    label.size = 0.3       
+  ) +
+ 
+  scale_fill_manual(values = colores_grafica) +
+  scale_color_manual(values = colores_grafica) +
+
+  labs(
+    x = "Group",
+    y = "Psychological Distress (PC1)"
+  ) +
+  coord_flip() +
+  
+  theme_classic(base_size = 14) +
+  theme(
+    legend.position = "none",
+    axis.line = element_line(color = "black", linewidth = 0.6),
+    axis.text = element_text(color = "black"),
+    axis.title.x = element_text(margin = margin(t = 12), face = "bold", color = "black"),
+    axis.title.y = element_text(margin = margin(r = 12), face = "bold", color = "black")
+  )
+
+print(grafica_2B)
+
+# Exportar en alta resolución (300 DPI)
+ggsave(
+  filename = "./IMAGES/Figure3_Global_DistressXGroup.png", 
+  plot = grafica_2B,
+  width = 5.5, 
+  height = 6, 
+  units = "in", 
+  dpi = 300
+)
+```
+
+*Note.* Horizontal box plots illustrate the distribution of final psychological distress scores for adolescents and adults, with age groups displayed on the y-axis. The vertical line within each box represents the median. Adolescents exhibited significantly higher levels of global psychological distress compared to adults (p \< .05).
+
+Psychological Distress (PC1) scores by age group.
+:::
+
+### ROIs results
+
+The complementary analysis regarding between-group comparisons within each ROI showed no significant differences that survived FDR correction for multiple comparisons. We detected two marginal results, in the bilateral NAcc adults exhibited higher BOLD signal compared to adolescents during the LR > C contrast (W = 342.0, p uncorrected = .05, p FDR = .52, Wilcoxon r = .25, Mdn Adults = 0.12, Mdn Adolescents = 0.03). Additionally, in the bilateral insula for the LL > C contrast, adults demonstrated increased signal relative to adolescents (W = 327.0, p uncorrected = .03, p FDR = .31, Wilcoxon r = .27, Mdn Adults = 0.04, Mdn Adolescents = -0.03). 
+
+```{r}
+#| include: false
+###############ANÁLISIS CEREBRAL###################
+
+######################Comparación entre grupos por ROIS bilateral#############
+################################ ACCUMBENS ###################
+
+library(rstatix)
+library(coin)
+# 1. Identificar las columnas que empiezan con el ROI de interés
+columnas_bilateral <- grep("accumbens_bilateral", colnames(data_ROIs), value = TRUE)
+# 2. Crear dataframe para almacenar todos los estadísticos necesarios
+resultados_bilateral <- data.frame(
+  Region = character(), 
+  W_statistic = numeric(),
+  p_value = numeric(), 
+  effect_size_r = numeric(),
+  magnitude = character(),
+  median_Adolescents = numeric(),
+  median_Adults = numeric(),
+  direction = character(),
+  stringsAsFactors = FALSE
+)
+# 3. Ciclo for para recorrer cada columna
+for (col in columnas_bilateral) {
+    # Ejecutar la prueba de Wilcoxon para obtener W y p-valor
+  prueba <- wilcox.test(data_ROIs[[col]] ~ data_ROIs$Group)
+  # Calcular el tamaño del efecto (r) usando la librería rstatix
+  formula_dinamica <- as.formula(paste0("`", col, "` ~ Group"))
+  efecto <- wilcox_effsize(data = data_ROIs, formula = formula_dinamica)
+  # Calcular las medianas por grupo para saber la dirección
+  mediana_adolescentes <- median(data_ROIs[[col]][data_ROIs$Group == "Adolescents"], na.rm = TRUE)
+  mediana_adultas <- median(data_ROIs[[col]][data_ROIs$Group == "Adults"], na.rm = TRUE)
+    # Determinar la dirección del efecto en texto
+  if (mediana_adolescentes > mediana_adultas) {
+    direccion_texto <- "Adolescents > Adults"
+  } else if (mediana_adolescentes < mediana_adultas) {
+    direccion_texto <- "Adults > Adolescents"
+  } else {
+    direccion_texto <- "Iguales"
+  }
+    # Almacenar toda la información en el dataframe
+  resultados_bilateral <- rbind(resultados_bilateral, data.frame(
+    Region = col, 
+    W_statistic = prueba$statistic,
+    p_value = prueba$p.value,
+    effect_size_r = efecto$effsize,
+    magnitude = efecto$magnitude,
+    median_Adolescentes = mediana_adolescentes,
+    median_Adultas = mediana_adultas,
+    direction = direccion_texto
+  ))
+}
+# 3.5. Agregar columna con la corrección FDR (Benjamini & Hochberg)
+resultados_bilateral$fdr_p_value <- p.adjust(resultados_bilateral$p_value, method = "BH")
+# 4. Reordenar las columnas 
+resultados_bilateral <- resultados_bilateral[, c(
+  "Region", "W_statistic", "p_value", "fdr_p_value", 
+  "effect_size_r", "magnitude", "median_Adolescentes", "median_Adultas", "direction"
+)]
+# 5. Ordenar las filas por significancia del p-valor original
+resultados_bilateral <- resultados_bilateral[order(resultados_bilateral$p_value), ]
+# Ver la tabla final con las direcciones incluidas
+print(resultados_bilateral)
+```
+
+```{r}
+#| include: false
+########################### INSULA #################
+library(rstatix)
+library(coin)
+# 1. Identificar las columnas que empiezan con el ROI de interés
+columnas_bilateral <- grep("insula_bilateral", colnames(data_ROIs), value = TRUE)
+# 2. Crear dataframe para almacenar todos los estadísticos necesarios
+resultados_bilateral <- data.frame(
+  Region = character(), 
+  W_statistic = numeric(),
+  p_value = numeric(), 
+  effect_size_r = numeric(),
+  magnitude = character(),
+  median_Adolescents = numeric(),
+  median_Adults = numeric(),
+  direction = character(),
+  stringsAsFactors = FALSE
+)
+# 3. Ciclo for para recorrer cada columna
+for (col in columnas_bilateral) {
+    # Ejecutar la prueba de Wilcoxon para obtener W y p-valor
+  prueba <- wilcox.test(data_ROIs[[col]] ~ data_ROIs$Group)
+  # Calcular el tamaño del efecto (r) usando la librería rstatix
+  formula_dinamica <- as.formula(paste0("`", col, "` ~ Group"))
+  efecto <- wilcox_effsize(data = data_ROIs, formula = formula_dinamica)
+  # Calcular las medianas por grupo para saber la dirección
+  mediana_adolescentes <- median(data_ROIs[[col]][data_ROIs$Group == "Adolescents"], na.rm = TRUE)
+  mediana_adultas <- median(data_ROIs[[col]][data_ROIs$Group == "Adults"], na.rm = TRUE)
+    # Determinar la dirección del efecto en texto
+  if (mediana_adolescentes > mediana_adultas) {
+    direccion_texto <- "Adolescents > Adults"
+  } else if (mediana_adolescentes < mediana_adultas) {
+    direccion_texto <- "Adults > Adolescents"
+  } else {
+    direccion_texto <- "Iguales"
+  }
+    # Almacenar toda la información en el dataframe
+  resultados_bilateral <- rbind(resultados_bilateral, data.frame(
+    Region = col, 
+    W_statistic = prueba$statistic,
+    p_value = prueba$p.value,
+    effect_size_r = efecto$effsize,
+    magnitude = efecto$magnitude,
+    median_Adolescentes = mediana_adolescentes,
+    median_Adultas = mediana_adultas,
+    direction = direccion_texto
+  ))
+}
+# 3.5. Agregar columna con la corrección FDR (Benjamini & Hochberg)
+resultados_bilateral$fdr_p_value <- p.adjust(resultados_bilateral$p_value, method = "BH")
+# 4. Reordenar las columnas 
+resultados_bilateral <- resultados_bilateral[, c(
+  "Region", "W_statistic", "p_value", "fdr_p_value", 
+  "effect_size_r", "magnitude", "median_Adolescentes", "median_Adultas", "direction"
+)]
+# 5. Ordenar las filas por significancia del p-valor original
+resultados_bilateral <- resultados_bilateral[order(resultados_bilateral$p_value), ]
+# Ver la tabla final con las direcciones incluidas
+print(resultados_bilateral)
+```
+
+```{r}
+#| include: false
+################################ TALAMO #####################
+library(rstatix)
+library(coin)
+# 1. Identificar las columnas que empiezan con el ROI de interés
+columnas_bilateral <- grep("talamo_bilateral", colnames(data_ROIs), value = TRUE)
+# 2. Crear dataframe para almacenar todos los estadísticos necesarios
+resultados_bilateral <- data.frame(
+  Region = character(), 
+  W_statistic = numeric(),
+  p_value = numeric(), 
+  effect_size_r = numeric(),
+  magnitude = character(),
+  median_Adolescents = numeric(),
+  median_Adults = numeric(),
+  direction = character(),
+  stringsAsFactors = FALSE
+)
+# 3. Ciclo for para recorrer cada columna
+for (col in columnas_bilateral) {
+    # Ejecutar la prueba de Wilcoxon para obtener W y p-valor
+  prueba <- wilcox.test(data_ROIs[[col]] ~ data_ROIs$Group)
+  # Calcular el tamaño del efecto (r) usando la librería rstatix
+  formula_dinamica <- as.formula(paste0("`", col, "` ~ Group"))
+  efecto <- wilcox_effsize(data = data_ROIs, formula = formula_dinamica)
+  # Calcular las medianas por grupo para saber la dirección
+  mediana_adolescentes <- median(data_ROIs[[col]][data_ROIs$Group == "Adolescents"], na.rm = TRUE)
+  mediana_adultas <- median(data_ROIs[[col]][data_ROIs$Group == "Adults"], na.rm = TRUE)
+    # Determinar la dirección del efecto en texto
+  if (mediana_adolescentes > mediana_adultas) {
+    direccion_texto <- "Adolescents > Adults"
+  } else if (mediana_adolescentes < mediana_adultas) {
+    direccion_texto <- "Adults > Adolescents"
+  } else {
+    direccion_texto <- "Iguales"
+  }
+    # Almacenar toda la información en el dataframe
+  resultados_bilateral <- rbind(resultados_bilateral, data.frame(
+    Region = col, 
+    W_statistic = prueba$statistic,
+    p_value = prueba$p.value,
+    effect_size_r = efecto$effsize,
+    magnitude = efecto$magnitude,
+    median_Adolescentes = mediana_adolescentes,
+    median_Adultas = mediana_adultas,
+    direction = direccion_texto
+  ))
+}
+# 3.5. Agregar columna con la corrección FDR (Benjamini & Hochberg)
+resultados_bilateral$fdr_p_value <- p.adjust(resultados_bilateral$p_value, method = "BH")
+# 4. Reordenar las columnas 
+resultados_bilateral <- resultados_bilateral[, c(
+  "Region", "W_statistic", "p_value", "fdr_p_value", 
+  "effect_size_r", "magnitude", "median_Adolescentes", "median_Adultas", "direction"
+)]
+# 5. Ordenar las filas por significancia del p-valor original
+resultados_bilateral <- resultados_bilateral[order(resultados_bilateral$p_value), ]
+# Ver la tabla final con las direcciones incluidas
+print(resultados_bilateral)
+```
+
+Moderation analyses yielded three significant interactions after correction for multiple comparisons by FDR. Notably, all statistically significant effects were observed exclusively during the loss anticipation phase. The first effect was found in the NAcc for the L > C contrast, encompassing both magnitudes. A second effect was also identified in the NAcc, specifically for the low-magnitude contrast, LL > C. Finally, the remaining significant effect emerged in the thalamus during the LL condition. No significant results were found in the insula. The specific statistical parameters for each of these analyses are detailed below.
+
+```{r}
+#| include: false
+#########################MODELOS DE INTERACCIÓN#########################################
+###¿La relación entre el distress global y la señal de las ROIs es diferente en adolescentes comparado con adultas?###
+
+# ACCUMBENS_10 COPES
+
+library(dplyr)
+library(car)
+
+# 1. Identificar las columnas cerebrales 
+columnas_cerebrales <- grep("accumbens_bilateral", names(data_ROIs), value = TRUE)
+
+# 2. Crear tabla para almacenar los p-valores crudos de la interacción
+tabla_p_interaccion <- data.frame(
+  ROI_Contraste = character(),
+  P_Valor_Interaccion_Crudo = numeric(),
+  stringsAsFactors = FALSE
+)
+
+# 3. Ciclo FOR para calcular el modelo lineal con  interacción
+for (columna in columnas_cerebrales) {
+  
+  # Modelo lineal con interacción Grupo x Distrés, controlando por Performance
+  formula_modelo <- as.formula(paste0("`", columna, "` ~ Group * distres_global + Performance_Profile"))
+  modelo <- lm(formula_modelo, data = data_ROIs)
+  
+  # Extraer ANOVA Tipo II
+  anova_res <- car::Anova(modelo, type = "II")
+  
+  # Capturar el p-valor de la interacción exacta (Group:distres_global)
+  p_val_interaccion <- anova_res["Group:distres_global", "Pr(>F)"]
+  
+  # Guardar en la tabla
+  tabla_p_interaccion <- rbind(tabla_p_interaccion, data.frame(
+    ROI_Contraste = columna,
+    P_Valor_Interaccion_Crudo = p_val_interaccion,
+    stringsAsFactors = FALSE
+  ))
+}
+
+# 4. APLICAR CORRECCIÓN FDR GLOBAL A LAS 10 INTERACCIONES
+tabla_resultados <- tabla_p_interaccion %>% 
+  mutate(
+    P_Valor_Interaccion_FDR = p.adjust(P_Valor_Interaccion_Crudo, method = "fdr"),
+    Significativo_FDR = ifelse(P_Valor_Interaccion_FDR < 0.05, "SÍ (*)", "No")
+  ) %>% 
+  arrange(P_Valor_Interaccion_FDR)
+
+# 5. Imprimir resultados 
+cat("\n=== RESULTADOS MODELOS DE INTERACCIÓN GRUPO x DISTRÉS) ===\n")
+print(tabla_resultados)
+
+```
+
+```{r}
+#| include: false
+###Desglosar el summary de los modelos significativos en accumbens y graficarlos
+library(interactions)
+library(ggplot2)
+modelo_accumbens_c16 <- lm(accumbens_bilateral_cope16 ~ Group * distres_global + Performance_Profile, data = data_ROIs)
+summary(modelo_accumbens_c16)
+
+analisis_pendientes <- sim_slopes(modelo_accumbens_c16, 
+                                  pred = distres_global, 
+                                  modx = Group, 
+                                  cond.int = TRUE, 
+                                  digits = 4)
+print(analisis_pendientes)
+
+```
+
+#### Psychological Distress Diminishes NAcc Activation During L > C contrast in Adolescents
+
+The overall model fit was marginally significant (F (4, 57) = 2.46, p = .05, Adjusted R² = .08), but a highly significant group × Psychological Distress interaction was revealed (β = 0.06, t (57) = 2.78, p = .007). To probe this interaction, a simple slopes analysis was performed. Results indicated that higher Psychological Distress was significantly associated with decreased NAcc activation in adolescents (Slope = -0.04, t = -2.61, p = .01) during the L > C contrast (Figure 3, A). In contrast, for adults, the relationship between Psychological Distress and NAcc activation was not statistically significant (Slope = 0.02, t = 1.35, p = .18). Task performance profile did not significantly contribute to the model (p = .91).
+
+::: {#fig-cope16}
+```{r}
+############Graficar los modelos significativos del accumbens cope 16###################
+library(ggplot2)
+
+grid_datos <- expand.grid(
+  distres_global = seq(min(data_ROIs$distres_global, na.rm = TRUE), 
+                       max(data_ROIs$distres_global, na.rm = TRUE), 
+                       length.out = 100),
+  Group = levels(as.factor(data_ROIs$Group))
+)
+grid_datos$Performance_Profile <- data_ROIs$Performance_Profile[1] 
+
+predicciones <- predict(modelo_accumbens_c16, newdata = grid_datos, se.fit = TRUE)
+grid_datos$accumbens_bilateral_cope16 <- predicciones$fit
+grid_datos$Lower <- predicciones$fit - (1.96 * predicciones$se.fit)
+grid_datos$Upper <- predicciones$fit + (1.96 * predicciones$se.fit)
+
+
+data_limpia_puntos <- na.omit(data_ROIs[, c("distres_global", "accumbens_bilateral_cope16", "Group")])
+
+COPE16_accumbens <- ggplot() +
+  
+  geom_ribbon(data = grid_datos, aes(x = distres_global, ymin = Lower, ymax = Upper, fill = Group), alpha = 0.2) +
+  
+  geom_line(data = grid_datos, aes(x = distres_global, y = accumbens_bilateral_cope16, color = Group, linetype = Group), size = 1.4) +
+  
+  geom_point(data = data_limpia_puntos, aes(x = distres_global, y = accumbens_bilateral_cope16, color = Group), size = 3) +
+
+  scale_color_manual(values = c("#0F766E", "#D97706")) +
+  scale_fill_manual(values = c("#0F766E", "#D97706")) +
+
+  scale_y_continuous(breaks = seq(floor(min(data_ROIs$accumbens_bilateral_cope16, na.rm = TRUE)), 
+                                  ceiling(max(data_ROIs$accumbens_bilateral_cope16, na.rm = TRUE)), 
+                                  by = 0.2)) +
+
+  labs(title = "L > C", x = "Psychological Distress", y = "% BOLD Signal Change in the Bilateral NAcc") +
+  theme_classic() +
+  theme(
+    plot.title = element_text(face = "bold", size = 22, hjust = 0.5, margin = margin(b = 10)), 
+    legend.position = "none",                    
+    axis.title.x = element_text(face = "bold", size = 19, margin = margin(t = 10)), 
+    axis.title.y = element_text(face = "bold", size = 18, margin = margin(r = 10)),
+    axis.text = element_text(size = 18, color = "black"),
+    axis.line = element_line(size = 0.6)
+  )
+
+COPE16_accumbens
+
+ggsave("./images/Figure4_COPE16_accumbens.tiff", plot = COPE16_accumbens, 
+       width = 15, height = 15, units = "cm", dpi = 300, compression = "lzw")
+```
+
+*Note.* Scatter plot with simple slopes illustrates the relationship between psychological distress (x-axis) and the percentage of BOLD signal change in the bilateral NAcc during the Loss (HL + LL) \> C (y-axis) contrast. A significant negative association was observed in two contrasts exclusively in adolescents (solid green line), where higher psychological distress predicted decreased NAcc BOLD signal. In contrast, the relationship was non-significant in adults (dashed orange line). Individual data points represent independent participants. p \< .05.
+
+Interaction between age group and psychological distress on nucleus accumbens (NAcc) activation.
+:::
+
+```{r}
+#| include: false
+#################RESULTADO COPE 9##################
+library(interactions)
+library(ggplot2)
+modelo_accumbens_c9 <- lm(accumbens_bilateral_cope9 ~ Group * distres_global + Performance_Profile, data = data_ROIs)
+summary(modelo_accumbens_c9)
+
+analisis_pendientes1 <- sim_slopes(modelo_accumbens_c9, 
+                                  pred = distres_global, 
+                                  modx = Group, 
+                                  cond.int = TRUE, 
+                                  digits = 4)
+print(analisis_pendientes1)
+
+```
+
+#### Psychological Distress Diminishes NAcc Activation During LL \> C contrast in Adolescents
+
+A linear regression model revealed a significant overall fit for bilateral NAcc BOLD signal during LL > C contrast (F (4, 57) = 2.98, p = .02, Adjusted R2 = .11). Crucially, a highly significant group × Psychological Distress interaction was observed (beta = 0.07, t (57) = 3.00, p = .004, Figure 3, B). Simple slopes analysis was performed to deconstruct this interaction. Results indicated that higher Psychological Distress was significantly associated with decreased NAcc activation in adolescents (Slope = -0.05, t = -2.97, p = .004). Conversely, for adults, the relationship between Psychological Distress and NAcc activation was not statistically significant (Slope = 0.02, t = 1.29, p = .20). Task performance profile did not significantly contribute to the model (p = .58).
+
+::: {#fig-cope9}
+```{r}
+############Graficar los modelos significativos del accumbens cope 9###################
+library(ggplot2)
+
+grid_datos <- expand.grid(
+  distres_global = seq(min(data_ROIs$distres_global, na.rm = TRUE), 
+                       max(data_ROIs$distres_global, na.rm = TRUE), 
+                       length.out = 100),
+  Group = levels(as.factor(data_ROIs$Group))
+)
+grid_datos$Performance_Profile <- data_ROIs$Performance_Profile[1] 
+
+predicciones <- predict(modelo_accumbens_c9, newdata = grid_datos, se.fit = TRUE)
+grid_datos$accumbens_bilateral_cope9 <- predicciones$fit
+grid_datos$Lower <- predicciones$fit - (1.96 * predicciones$se.fit)
+grid_datos$Upper <- predicciones$fit + (1.96 * predicciones$se.fit)
+
+data_limpia_puntos <- na.omit(data_ROIs[, c("distres_global", "accumbens_bilateral_cope9", "Group")])
+
+COPE9_accumbens <- ggplot() +
+  
+  geom_ribbon(data = grid_datos, aes(x = distres_global, ymin = Lower, ymax = Upper, fill = Group), alpha = 0.2) +
+  
+  geom_line(data = grid_datos, aes(x = distres_global, y = accumbens_bilateral_cope9, color = Group, linetype = Group ), size = 1.4) +
+  
+  geom_point(data = data_limpia_puntos, aes(x = distres_global, y = accumbens_bilateral_cope9, color = Group), size = 3) +
+  scale_color_manual(values = c("#0F766E", "#D97706")) +
+  scale_fill_manual(values = c("#0F766E", "#D97706")) +
+  
+  scale_y_continuous(breaks = seq(floor(min(data_ROIs$accumbens_bilateral_cope9, na.rm = TRUE)), 
+                                  ceiling(max(data_ROIs$accumbens_bilateral_cope9, na.rm = TRUE)), 
+                                  by = 0.2)) +
+  labs(title = "LL > C ", x = "Psychological Distress", y = "% BOLD Signal Change in the Bilateral NAcc") +
+  theme_classic() +
+  theme(
+    plot.title = element_text(face = "bold", size = 22, hjust = 0.5, margin = margin(b = 10)), 
+    legend.position = "none",                    
+    axis.title.x = element_text(face = "bold", size = 19, margin = margin(t = 10)), 
+    axis.title.y = element_text(face = "bold", size = 18, margin = margin(r = 10)),
+    axis.text = element_text(size = 18, color = "black"),
+    axis.line = element_line(size = 0.6)
+  )
+
+COPE9_accumbens
+
+ggsave("./images/Figure5_COPE9_accumbens.tiff", plot = COPE9_accumbens, 
+       width = 15, height = 15, units = "cm", dpi = 300, compression = "lzw")
+```
+
+*Note.* Scatter plot with simple slopes illustrates the relationship between psychological distress (x-axis) and the percentage of BOLD signal change in the bilateral NAcc during the Loss Low (LL) \> C (y-axis) contrast. A significant negative association was observed in two contrasts exclusively in adolescents (solid green line), where higher psychological distress predicted decreased NAcc BOLD signal. In contrast, the relationship was non-significant in adults (dashed orange line). Individual data points represent independent participants. p \< .05.
+
+Interaction between age group and psychological distress on nucleus accumbens (NAcc) activation.
+:::
+
+```{r}
+#| include: false
+# TALAMO_10 COPES
+
+library(dplyr)
+library(car)
+
+# 1. Identificar las columnas cerebrales 
+columnas_cerebrales <- grep("talamo_bilateral", names(data_ROIs), value = TRUE)
+
+# 2. Crear tabla para almacenar los p-valores crudos de la interacción
+tabla_p_interaccion <- data.frame(
+  ROI_Contraste = character(),
+  P_Valor_Interaccion_Crudo = numeric(),
+  stringsAsFactors = FALSE
+)
+
+# 3. Ciclo FOR para calcular el modelo lineal con  interacción
+for (columna in columnas_cerebrales) {
+  
+  # Modelo lineal con interacción Grupo x Distrés, controlando por Performance
+  formula_modelo <- as.formula(paste0("`", columna, "` ~ Group * distres_global + Performance_Profile"))
+  modelo <- lm(formula_modelo, data = data_ROIs)
+  
+  # Extraer ANOVA Tipo II
+  anova_res <- car::Anova(modelo, type = "II")
+  
+  # Capturar el p-valor de la interacción exacta (Group:distres_global)
+  p_val_interaccion <- anova_res["Group:distres_global", "Pr(>F)"]
+  
+  # Guardar en la tabla
+  tabla_p_interaccion <- rbind(tabla_p_interaccion, data.frame(
+    ROI_Contraste = columna,
+    P_Valor_Interaccion_Crudo = p_val_interaccion,
+    stringsAsFactors = FALSE
+  ))
+}
+
+# 4. APLICAR CORRECCIÓN FDR GLOBAL A LAS 10 INTERACCIONES
+tabla_resultados <- tabla_p_interaccion %>% 
+  mutate(
+    P_Valor_Interaccion_FDR = p.adjust(P_Valor_Interaccion_Crudo, method = "fdr"),
+    Significativo_FDR = ifelse(P_Valor_Interaccion_FDR < 0.05, "SÍ (*)", "No")
+  ) %>% 
+  arrange(P_Valor_Interaccion_FDR)
+
+# 5. Imprimir resultados 
+cat("\n=== RESULTADOS MODELOS DE INTERACCIÓN GRUPO x DISTRÉS) ===\n")
+print(tabla_resultados)
+
+```
+
+```{r}
+#| include: false
+#################RESULTADO COPE 5 TALAMO##################
+library(interactions)
+library(ggplot2)
+modelo_talamo_c5 <- lm(talamo_bilateral_cope5 ~ Group * distres_global + Performance_Profile, data = data_ROIs)
+summary(modelo_talamo_c5)
+
+analisis_pendientes <- sim_slopes(modelo_talamo_c5, 
+                                  pred = distres_global, 
+                                  modx = Group, 
+                                  cond.int = TRUE, 
+                                  digits = 4)
+print(analisis_pendientes)
+
+```
+
+#### Psychological Distress Increases Thalamic Activation During LL condition in Adults
+
+In contrast to the patterns observed in the NAcc, analyses of the bilateral thalamus during LL condition revealed a distinct developmental dynamic, yielding a highly significant overall model fit (F (4, 57) = 3.72, p = .009, Adjusted R2 = .15). This model was driven by a robust group × Psychological Distress interaction (beta = 0.07, t (57) = 3.14, p = .003, Figure 4). Decomposition via simple slopes analysis indicated that for adults, higher Psychological Distress was significantly associated with increased thalamic activation (Slope = 0.06, t = 3.71, p < .001). Conversely, this relationship was not statistically significant in adolescents, who demonstrated a neutral functional response to Psychological Distress in this region (Slope = -0.01, t = -0.78, p = .44). Task performance profile remained non-significant and did not contribute to the model (p = .72).
+
+::: {#fig-cope5}
+```{r}
+############Graficar los modelos significativos del tálamo cope 5###################
+library(ggplot2)
+
+grid_datos <- expand.grid(
+  distres_global = seq(min(data_ROIs$distres_global, na.rm = TRUE), 
+                       max(data_ROIs$distres_global, na.rm = TRUE), 
+                       length.out = 100),
+  Group = levels(as.factor(data_ROIs$Group))
+)
+grid_datos$Performance_Profile <- data_ROIs$Performance_Profile[1] 
+
+predicciones <- predict(modelo_talamo_c5, newdata = grid_datos, se.fit = TRUE)
+grid_datos$talamo_bilateral_cope5 <- predicciones$fit
+grid_datos$Lower <- predicciones$fit - (1.96 * predicciones$se.fit)
+grid_datos$Upper <- predicciones$fit + (1.96 * predicciones$se.fit)
+
+data_limpia_puntos <- na.omit(data_ROIs[, c("distres_global", "talamo_bilateral_cope5", "Group")])
+
+COPE5_thalamus <- ggplot() +
+  
+  geom_ribbon(data = grid_datos, aes(x = distres_global, ymin = Lower, ymax = Upper, fill = Group), alpha = 0.2) +
+  
+  geom_line(data = grid_datos, aes(x = distres_global, y = talamo_bilateral_cope5, color = Group, linetype = Group), size = 1.4) +
+  
+  geom_point(data = data_limpia_puntos, aes(x = distres_global, y = talamo_bilateral_cope5, color = Group), size = 3) +
+  
+ 
+  scale_color_manual(values = c("#0F766E", "#D97706")) +
+  scale_fill_manual(values = c("#0F766E", "#D97706")) +
+  
+  scale_linetype_manual(values = c("dashed", "solid")) +
+ 
+  scale_y_continuous(breaks = seq(floor(min(data_ROIs$talamo_bilateral_cope5, na.rm = TRUE)), 
+                                  ceiling(max(data_ROIs$talamo_bilateral_cope5, na.rm = TRUE)), 
+                                  by = 0.2)) +
+   labs(title = "LL Condition", x = "Psychological Distress", y = "% BOLD Signal Change in the Bilateral Thalamus")+
+ theme_classic() +
+  theme(
+    plot.title = element_text(face = "bold", size = 22, hjust = 0.5, margin = margin(b = 10)), 
+    legend.position = "none",                    
+    axis.title.x = element_text(face = "bold", size = 19, margin = margin(t = 10)), 
+    axis.title.y = element_text(face = "bold", size = 16.5, margin = margin(r = 10)),
+    axis.text = element_text(size = 18, color = "black"),
+    axis.line = element_line(size = 0.6)
+  )
+COPE5_thalamus
+
+ggsave("./images/Figura6_COPE5_thalamus.tiff", plot = COPE5_thalamus, 
+       width = 15, height = 15, units = "cm", dpi = 300, compression = "lzw")
+```
+
+*Note.* Scatter plot with simple slopes illustrates the relationship between global psychological distress (x-axis) and the percentage of BOLD signal change in the bilateral thalamus during the LL condition (y-axis). A significant positive association was observed exclusively in adults (solid orange line), where higher psychological distress predicted an increase in the thalamic BOLD signal. In contrast, the relationship was non-significant in adolescents (dashed green line). Individual data points represent independent participants. p \< .05.
+
+Interaction between age group and psychological distress on thalamic activation.
+:::
+
+```{r}
+#| include: false
+# INSULA_10 COPES
+library(dplyr)
+library(car)
+
+# 1. Identificar las columnas cerebrales 
+columnas_cerebrales <- grep("insula_anterior_bilateral", names(data_ROIs), value = TRUE)
+
+# 2. Crear tabla para almacenar los p-valores crudos de la interacción
+tabla_p_interaccion <- data.frame(
+  ROI_Contraste = character(),
+  P_Valor_Interaccion_Crudo = numeric(),
+  stringsAsFactors = FALSE
+)
+
+# 3. Ciclo FOR para calcular el modelo lineal con  interacción
+for (columna in columnas_cerebrales) {
+  
+  # Modelo lineal con interacción Grupo x Distrés, controlando por Performance
+  formula_modelo <- as.formula(paste0("`", columna, "` ~ Group * distres_global + Performance_Profile"))
+  modelo <- lm(formula_modelo, data = data_ROIs)
+  
+  # Extraer ANOVA Tipo II
+  anova_res <- car::Anova(modelo, type = "II")
+  
+  # Capturar el p-valor de la interacción exacta (Group:distres_global)
+  p_val_interaccion <- anova_res["Group:distres_global", "Pr(>F)"]
+  
+  # Guardar en la tabla
+  tabla_p_interaccion <- rbind(tabla_p_interaccion, data.frame(
+    ROI_Contraste = columna,
+    P_Valor_Interaccion_Crudo = p_val_interaccion,
+    stringsAsFactors = FALSE
+  ))
+}
+
+# 4. APLICAR CORRECCIÓN FDR GLOBAL A LAS 10 INTERACCIONES
+tabla_resultados <- tabla_p_interaccion %>% 
+  mutate(
+    P_Valor_Interaccion_FDR = p.adjust(P_Valor_Interaccion_Crudo, method = "fdr"),
+    Significativo_FDR = ifelse(P_Valor_Interaccion_FDR < 0.05, "SÍ (*)", "No")
+  ) %>% 
+  arrange(P_Valor_Interaccion_FDR)
+
+# 5. Imprimir resultados
+cat("\n=== RESULTADOS MODELOS DE INTERACCIÓN GRUPO x DISTRÉS) ===\n")
+print(tabla_resultados)
+
+```

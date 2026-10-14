@@ -1,0 +1,2 @@
+"0","#cargo el archivo de los datos conductuales  "
+"0","data <-read.csv(""./data/processed/MID_conductual.csv"", encoding = ""UTF-8"")"
